@@ -1,0 +1,16 @@
+C:\Users\tugce\source\repos\ExpressBasicQuality\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\tugce\source\repos\ExpressBasicQuality\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\tugce\source\repos\ExpressBasicQuality\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\tugce\source\repos\ExpressBasicQuality\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\tugce\source\repos\ExpressBasicQuality\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\tugce\source\repos\ExpressBasicQuality\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\tugce\source\repos\ExpressBasicQuality\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\tugce\source\repos\ExpressBasicQuality\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Data\obj\Debug\netcoreapp3.1\Data.pdb

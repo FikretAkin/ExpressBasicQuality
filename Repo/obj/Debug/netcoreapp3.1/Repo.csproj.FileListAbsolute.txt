@@ -1,0 +1,22 @@
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\bin\Debug\netcoreapp3.1\Repo.deps.json
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\bin\Debug\netcoreapp3.1\Repo.dll
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.csprojAssemblyReference.cache
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.AssemblyInfoInputs.cache
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.AssemblyInfo.cs
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\bin\Debug\netcoreapp3.1\Repo.pdb
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.csproj.CopyComplete
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.dll
+C:\Users\tugce\source\repos\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.pdb
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\bin\Debug\netcoreapp3.1\Repo.deps.json
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\bin\Debug\netcoreapp3.1\Repo.dll
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\bin\Debug\netcoreapp3.1\Repo.pdb
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.csprojAssemblyReference.cache
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.AssemblyInfoInputs.cache
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.AssemblyInfo.cs
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.csproj.CopyComplete
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.dll
+C:\Users\Fikret AKIN\Desktop\ExpressBasicQuality\Repo\obj\Debug\netcoreapp3.1\Repo.pdb
