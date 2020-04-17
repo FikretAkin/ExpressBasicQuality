@@ -10,11 +10,6 @@ namespace Data.Models
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         { }
         public virtual DbSet<xUser> xUser { get; set; }
-        //public virtual DbSet<TbSystemNumara> TbSystemNumara { get; set; }
-        //public virtual DbSet<TbFirmaBolgeTanim> TbFirmaBolgeTanim { get; set; }
-        //public virtual DbSet<TbFirmaSektorTanim> TbFirmaSektorTanim { get; set; }
-        //public virtual DbSet<TbFirma> TbFirma { get; set; }
-        //public virtual DbSet<TbIsMerkez> TbIsMerkez { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<xUser>(entity =>
